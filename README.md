@@ -3,6 +3,8 @@
 
 To conduct a comprehensive analysis of BlinKit’s sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
+## DataSet
+<a href="https://github.com/supraja-kamineni/BlinkIT-Grocery-Data/blob/main/BlinkIT%20Grocery%20Data.xlsx">DataSet & live interaction</a>
 ## 📌 KPI Requirements
 
 The analysis includes the following key performance indicators (KPIs):
