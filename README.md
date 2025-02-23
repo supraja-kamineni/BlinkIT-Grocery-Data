@@ -3,23 +3,24 @@
 
 To conduct a comprehensive analysis of BlinKit’s sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
-## DataSet
-<a href="https://github.com/supraja-kamineni/BlinkIT-Grocery-Data/blob/main/BlinkIT%20Grocery%20Data.xlsx">DataSet & live interaction</a>
+ ## 📂 Dataset
+
+📥  <a href="https://github.com/supraja-kamineni/BlinkIT-Grocery-Data/blob/main/BlinkIT%20Grocery%20Data.xlsx">DataSet & live interaction</a>
+
 ## 📌 KPI Requirements
 
 The analysis includes the following key performance indicators (KPIs):
 
-Total Sales – The overall revenue generated from all items sold.
+1. Total Sales – The overall revenue generated from all items sold.
 
-Average Sales – The average revenue per sale.
+2. Average Sales – The average revenue per sale.
 
-Number of Items – The total count of different items sold.
+3. Number of Items – The total count of different items sold.
 
-Average Rating – The average customer rating for items sold.
+4. Average Rating – The average customer rating for items sold.
 
 
 ## 📊 Charts & Visualizations
-
 The following visualizations will be used to derive meaningful insights:
 
 Total Sales by Fat Content
@@ -63,7 +64,6 @@ All Metrics by Outlet Type
 🎯 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
 📈 Chart Type: Matrix Card.
-
 ## 🎯 Project Objectives
 
 ✅ Gain actionable insights into BlinKit’s sales trends.
@@ -81,5 +81,5 @@ All Metrics by Outlet Type
 ✅ Effective inventory management for better profitability.
 ✅ Powerful Excel visualizations for storytelling and decision-making.
 
-## Dashboard
+## 📊 Dashboard Preview
 ![image alt ](https://github.com/supraja-kamineni/BlinkIT-Grocery-Data/blob/main/Blinkit_DashBoard.png?raw=true)
