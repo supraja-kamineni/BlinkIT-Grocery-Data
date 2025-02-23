@@ -66,14 +66,17 @@ All Metrics by Outlet Type
 
 🎯 Project Objectives
 
-Gain actionable insights into BlinKit’s sales trends.
+✅ Gain actionable insights into BlinKit’s sales trends.
 
-Identify factors influencing customer satisfaction.
+✅ Identify factors influencing customer satisfaction.
 
-Optimize inventory distribution for better efficiency.
+✅ Optimize inventory distribution for better efficiency.
 
-Use Excel visualizations to present findings in a clear, interactive manner.
+✅ Use Excel visualizations to present findings in a clear, interactive manner.
 
 💡 Key Takeaways
 
-✅ Data-driven approach for sales performance improvement.✅ Enhanced customer satisfaction through rating analysis.✅ Effective inventory management for better profitability.✅ Powerful Excel visualizations for storytelling and decision-making.
+✅ Data-driven approach for sales performance improvement.
+✅ Enhanced customer satisfaction through rating analysis.
+✅ Effective inventory management for better profitability.
+✅ Powerful Excel visualizations for storytelling and decision-making.
