@@ -1,11 +1,9 @@
 # Blink-IT-Grocery-Data
-🚀 BlinKit Sales &amp; Customer Insights Dashboard 📊
-
-🚀 Business Requirement
+## 🚀 Business Requirement
 
 To conduct a comprehensive analysis of BlinKit’s sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
-📌 KPI Requirements
+## 📌 KPI Requirements
 
 The analysis includes the following key performance indicators (KPIs):
 
@@ -18,7 +16,7 @@ Number of Items – The total count of different items sold.
 Average Rating – The average customer rating for items sold.
 
 
-📊 Charts & Visualizations
+## 📊 Charts & Visualizations
 
 The following visualizations will be used to derive meaningful insights:
 
@@ -64,7 +62,7 @@ All Metrics by Outlet Type
 
 📈 Chart Type: Matrix Card.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 ✅ Gain actionable insights into BlinKit’s sales trends.
 
@@ -74,7 +72,7 @@ All Metrics by Outlet Type
 
 ✅ Use Excel visualizations to present findings in a clear, interactive manner.
 
-💡 Key Takeaways
+## 💡 Key Takeaways
 
 ✅ Data-driven approach for sales performance improvement.
 ✅ Enhanced customer satisfaction through rating analysis.
