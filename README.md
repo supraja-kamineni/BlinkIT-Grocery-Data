@@ -80,3 +80,6 @@ All Metrics by Outlet Type
 ✅ Enhanced customer satisfaction through rating analysis.
 ✅ Effective inventory management for better profitability.
 ✅ Powerful Excel visualizations for storytelling and decision-making.
+
+## Dashboard
+Blinkit_DashBoard.png
