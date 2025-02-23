@@ -82,4 +82,4 @@ All Metrics by Outlet Type
 ✅ Powerful Excel visualizations for storytelling and decision-making.
 
 ## Dashboard
-Blinkit_DashBoard.png
+![image alt ](https://github.com/supraja-kamineni/BlinkIT-Grocery-Data/blob/main/Blinkit_DashBoard.png?raw=true)
